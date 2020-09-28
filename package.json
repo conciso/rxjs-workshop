@@ -1,0 +1,9 @@
+{
+  "name": "workshop",
+  "version": "0.0.0",
+  "dependencies": {
+    "rxjs": "~6.6.3",
+    "ts-node": "^9.0.0",
+    "typescript": "^3.9.7"
+  }
+}
